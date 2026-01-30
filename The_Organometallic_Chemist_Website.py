@@ -14,9 +14,7 @@ st.title("The Organometallic Chemist")
 name = "Tinyiko Baloyi"
 Field = "Chemistry"
 Institution = "University of Johannesburg"
-
-st.image(
-    "spheres-5806920_640.jpg")
+st.image("https://github.com/baloyit-rgb/CSS_Streamlit_2026/blob/main/spheres-5806920_640.jpg?raw=true")
 st.header("About me")
 st.write(" I am Tinyiko Baloyi and a MSc Chemistry student at the University of Johannesburg. I am Fun outgoing(when forced....I love my own space)")
 
@@ -28,4 +26,5 @@ st.header("Publications")
 st.write("I have no publications, but we working on that :wink:")
 
 st.header("Contact information")
+
 st.write("Email - baloyit586@gmail.com")
